@@ -9,7 +9,7 @@ version: 2
 name: Deepak Gahlot
 title: Developer - Android
 email: deepakgahlot98@gmail.com
-website: https://github.com/deepakgahlot98
+website: https://deepakgahlot98.github.io/aboutme/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -23,7 +23,6 @@ github_username:  deepakgahlot98
 # flickr_username: jekyll
 instagram_username: https://www.instagram.com/codkiller0911/
 linkedin_username: https://www.linkedin.com/in/deepak-gahlot-4b7832102/
-medium_username: https://medium.com/@codkiller0911
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -31,9 +30,9 @@ medium_username: https://medium.com/@codkiller0911
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: Medium
+  icon: <img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>
+  url: https://medium.com/@codkiller0911
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
