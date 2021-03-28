@@ -31,7 +31,7 @@ linkedin_username: https://www.linkedin.com/in/deepak-gahlot-4b7832102/
 # Additional icon links
 additional_links:
 - title: Medium
-  icon: <img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>
+  icon: images/medium.png
   url: https://medium.com/@codkiller0911
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
