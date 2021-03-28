@@ -31,7 +31,7 @@ linkedin_username: https://www.linkedin.com/in/deepak-gahlot-4b7832102/
 # Additional icon links
 additional_links:
 - title: Medium
-  icon: images/medium.png
+  icon: fas fa-globalmtb
   url: https://medium.com/@codkiller0911
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -81,7 +81,7 @@ content:
         sub_title: Developer
         caption: October 2020 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          SAP SE is a German multinational software corporation based in Walldorf, Baden-Württemberg, that develops enterprise software to manage business operations and customer relations. The company is especially known for its ERP software.
         description: | # this will include new lines to allow paragraphs
           Working on the product called Ariba by SAP. SAP Ariba is the only procurement and supply chain collaboration solution that empowers compaines to move faster and spend better. With SAP Ariba, compaines can connect to the largest B2B network, creating dynamic, digital collaboration with millions of suppliers and other trading partners all around the world.
           I work on the Supplier side Android App for Ariba.
@@ -93,7 +93,7 @@ content:
         sub_title: Software Engineer
         caption: June 2014 - September 2020
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Adobe Inc. is an American multinational computer software company. Incorporated in Delaware and headquartered in San Jose, California, it has historically specialized in software for the creation and publication of a wide range of content, including graphics, photography, illustration, animation, multimedia/video, motion pictures and print. 
         description: | # this will include new lines to allow paragraphs
           Wokred on the one the Adobe most used product for photo editing "Lightroom". I was the part of the Android team and we were mainly working on developing the features for the Lightroom app on Android. Some of the features on which i worked intensively are Selective Edits, Copy-paste settings, Profiles & Presets.,
 
